@@ -5,6 +5,7 @@ import beachHouse from "../assets/beach-house.jpg";
 import beachHouseInterior1 from "../assets/beach-house-interior-1.jpg";
 import beachHouseInterior2 from "../assets/beach-house-interior-2.jpg";
 
+
 function Template() {
   return (
     <div className="w-full min-h-screen bg-slate-800 text-slate-400">
